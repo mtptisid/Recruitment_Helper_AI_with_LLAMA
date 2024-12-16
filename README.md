@@ -76,10 +76,17 @@ AutoRecruiterAI is an AI-powered solution designed to automate the process of ex
 
 ---
 
-## **Direct Download**  
 
-You can download the latest version of the project from the link below:  
-[**Download AutoRecruiterAI**](https://github.com/)  
+<img width="1440" alt="Screenshot 2024-12-16 at 6 13 36 PM" src="https://github.com/user-attachments/assets/ba592d62-a41b-4ee4-86af-de0357b82ed3" />
+
+<img width="1440" alt="Screenshot 2024-12-16 at 6 08 55 PM" src="https://github.com/user-attachments/assets/0f098cbb-b3f1-41df-8e04-271725ec9e02" />
+
+<img width="1440" alt="Screenshot 2024-12-16 at 6 09 01 PM" src="https://github.com/user-attachments/assets/6e61dbff-dcce-4335-906e-bad9f2512166" />
+
+<img width="1301" alt="Screenshot 2024-12-16 at 6 09 35 PM" src="https://github.com/user-attachments/assets/a090840d-39f2-48f0-8cfe-fe2fe6baaa8d" />
+
+<img width="1440" alt="Screenshot 2024-12-16 at 6 10 08 PM" src="https://github.com/user-attachments/assets/2db634f8-5928-4db8-957c-d2cc4cb12ed8" />
+
 
 ---
 
