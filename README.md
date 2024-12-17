@@ -87,6 +87,8 @@ AutoRecruiterAI is an AI-powered solution designed to automate the process of ex
 
 <img width="1440" alt="Screenshot 2024-12-16 at 6 10 08 PM" src="https://github.com/user-attachments/assets/2db634f8-5928-4db8-957c-d2cc4cb12ed8" />
 
+<img width="1440" alt="Screenshot 2024-12-16 at 6 11 49 PM" src="https://github.com/user-attachments/assets/53684346-bb76-41d2-836c-89e63b197e66" />
+
 
 ---
 
