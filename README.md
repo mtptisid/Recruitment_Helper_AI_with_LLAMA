@@ -47,12 +47,12 @@ AutoRecruiterAI is an AI-powered solution designed to automate the process of ex
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-repo/AutoRecruiterAI.git  
+   git clone https://github.com/mtptisid/Recruitment_Helper_AI_with_LLAMA.git 
    ```  
 
 2. Navigate to the project directory:  
    ```bash  
-   cd AutoRecruiterAI  
+   cd Recruitment_Helper_AI_with_LLAMA  
    ```  
 
 3. Install dependencies:  
@@ -71,7 +71,7 @@ AutoRecruiterAI is an AI-powered solution designed to automate the process of ex
 
 2. Generate emails based on extracted job data:  
    ```bash  
-   python email_generator.py  
+   python email_helper.py  
    ```  
 
 ---
