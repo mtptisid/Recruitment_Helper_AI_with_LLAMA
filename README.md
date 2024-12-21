@@ -64,12 +64,7 @@ AutoRecruiterAI is an AI-powered solution designed to automate the process of ex
 
 ## **Usage**  
 
-1. Run the scraper to collect job data:  
-   ```bash  
-   python scraper.py  
-   ```  
-
-2. Generate emails based on extracted job data:  
+## Generate emails based on extracted job data:  
    ```bash  
    python email_helper.py  
    ```  
